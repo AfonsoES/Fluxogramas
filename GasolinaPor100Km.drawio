@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
+  <diagram name="Página-1" id="4iUnGPk8eX9eYoRPvFoH">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iD5cl9piEalMS1e9P42m-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iD5cl9piEalMS1e9P42m-1" target="iD5cl9piEalMS1e9P42m-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iD5cl9piEalMS1e9P42m-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="354" y="60" width="119" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iD5cl9piEalMS1e9P42m-2" target="dbXYkPXYevpdWX7WdQCM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iD5cl9piEalMS1e9P42m-2" value="Pedir Nota" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="284" y="180" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbXYkPXYevpdWX7WdQCM-7" target="dbXYkPXYevpdWX7WdQCM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbXYkPXYevpdWX7WdQCM-7" target="dbXYkPXYevpdWX7WdQCM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-7" value="Nota&amp;gt;9.5" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="148" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbXYkPXYevpdWX7WdQCM-14" target="dbXYkPXYevpdWX7WdQCM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-14" value="Escrever &quot;Aprovou" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="582" y="315" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbXYkPXYevpdWX7WdQCM-16" target="dbXYkPXYevpdWX7WdQCM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-16" value="Escrever &quot;Reprovou&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="315" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbXYkPXYevpdWX7WdQCM-18" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="460" width="119" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
